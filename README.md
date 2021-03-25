@@ -6,9 +6,11 @@
     <img src='https://img.shields.io/badge/React-green'></img>  
 </div>
 
-## *Website*
+## Link do projeto
 
-[Acesse online](algumlink.heroku.com)
+obs: Esse é resultado para um teste técnico para Backend Developer na https://workalove.com/
+
+[recette des chefs](algumlink.heroku.com)
 
 #### Sistema web para cadastro e consultas de receitas com Django REST Framework e ReactJS 👨‍🍳
 
