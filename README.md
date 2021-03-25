@@ -1,6 +1,6 @@
 <div align='center'>
     <img src='https://user-images.githubusercontent.com/55309160/112492060-b1d70380-8d5f-11eb-8f9e-9923de935d51.png'></img><br/><br/>
-    <h2><b>Sistema de Receitas 👨‍🍳</b></h2>
+    <h2><b>Sistema de Receitas</b></h2>
     <img src='https://img.shields.io/badge/Python-3.9.2-blue'></img>
     <img src='https://img.shields.io/badge/Django_REST_Framework-red'></img>
     <img src='https://img.shields.io/badge/React-green'></img>  
@@ -10,27 +10,27 @@
 
 [Acesse online](algumlink.heroku.com)
 
-### Sistema web para cadastro e consultas de receitas com Django REST Framework e ReactJS 👨‍🍳
+#### Sistema web para cadastro e consultas de receitas com Django REST Framework e ReactJS 👨‍🍳
 
 ### Tools 🛠️
 
-. Python
+> Python
 
-. Django REST Framework
+> Django REST Framework
 
-. Pytest
+> Pytest
 
-. PostgreSQL
+> PostgreSQL
 
-. Docker
+> Docker
 
-#### Bônus
+#### Bônus 🎁
 
-. Rect
+> Rect
 
-. Jest
+> Jest
 
-. TailwindCSS
+> TailwindCSS
 
 # Todo 📝
 
@@ -48,7 +48,7 @@
 
 :warning: Permitir que usuários pesquisem receitas por características
 
-#### Bônus
+#### Bônus 🎁
 
 :warning: Criar uma SPA em React para consumir a API criada
 
@@ -56,10 +56,10 @@
 
 # Inicie o projeto
 
-  make up
+    make up
 
 # Rode os testes
 
-  make python-tests
+    make python-tests
 
-  make react-tests
+    make react-tests
