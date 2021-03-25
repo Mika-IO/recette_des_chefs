@@ -56,6 +56,10 @@ obs: Esse é resultado para um teste técnico para Backend Developer na https://
 
 :warning: Criar testes para os components da SPA
 
+# Para executar algo em cada container
+
+    docker-compose run <service_name> <cmd>
+
 # Inicie o projeto
 
     make up
