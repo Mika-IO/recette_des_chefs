@@ -36,7 +36,7 @@ obs: Esse é resultado para um teste técnico para Backend Developer na https://
 
 # Todo 📝
 
-:warning: Elaborar ambiente Docker para execução do projeto
+:heavy_check_mark: Elaborar ambiente Docker para execução do projeto
 
 :warning: Elaborar testes
 
