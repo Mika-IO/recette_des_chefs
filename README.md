@@ -8,8 +8,6 @@
 
 ## Link do projeto
 
-obs: Esse é resultado para um teste técnico para Backend Developer na https://workalove.com/
-
 [recette des chefs](algumlink.heroku.com)
 
 #### Sistema web para cadastro e consultas de receitas com Django REST Framework e ReactJS 👨‍🍳
